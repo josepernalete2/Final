@@ -56,7 +56,11 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainForm.resx">
+<<<<<<< HEAD
       <DependentUpon>MainForm.cs</DependentUpon>
+=======
+      <DependentUpon>MainForm.Designer.cs</DependentUpon>
+>>>>>>> a5c7e971f293cdc8603f27db4b802048eb848161
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
