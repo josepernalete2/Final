@@ -19,5 +19,15 @@ namespace Final
 		{
 			
 		}
+		
+		void Button1Click(object sender, EventArgs e)
+		{
+			
+		}
+		
+		void Button2Click(object sender, EventArgs e)
+		{
+			
+		}
 	}
 }

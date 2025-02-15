@@ -1,4 +1,11 @@
-﻿
+﻿/*
+ * Created by SharpDevelop.
+ * User: Usuario
+ * Date: 15/2/2025
+ * Time: 9:49 a. m.
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
 namespace Final
 {
 	partial class MainForm
@@ -82,6 +89,7 @@ namespace Final
 			this.button1.TabIndex = 4;
 			this.button1.Text = "&Ingresar";
 			this.button1.UseVisualStyleBackColor = true;
+			this.button1.Click += new System.EventHandler(this.Button1Click);
 			// 
 			// button2
 			// 
@@ -91,6 +99,7 @@ namespace Final
 			this.button2.TabIndex = 5;
 			this.button2.Text = "Acceso";
 			this.button2.UseVisualStyleBackColor = true;
+			this.button2.Click += new System.EventHandler(this.Button2Click);
 			// 
 			// MainForm
 			// 
