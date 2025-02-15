@@ -1,11 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Usuario
- * Date: 15/2/2025
- * Time: 9:49 a. m.
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+﻿
 namespace Final
 {
 	partial class MainForm
